@@ -1,0 +1,9 @@
+[submodule ".github"]
+	path = .github
+	url = https://github.com/FJH03/Blender-Superskill
+[submodule "game_src"]
+	path = game_src
+	url = https://github.com/FJH03/source-engine-czero
+[submodule "game_res"]
+	path = game_res
+	url = https://github.com/FJH03/CSCZS_GameData
